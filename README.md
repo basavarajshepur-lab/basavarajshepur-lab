@@ -2,7 +2,7 @@
 
 **Senior Product Manager | Banking x Data x AI**
 
-19 years building data and AI products across global financial institutions. Currently leading enterprise data platform initiatives at Deutsche Bank's Chief Data Office — GCP migration, data catalog, lineage, governance, and regulatory reporting (BCBS 239/GDPR).
+19 years in total out of which 14+ as a Product manager building data and AI products across global financial institutions. Currently leading enterprise data platform initiatives at Deutsche Bank's Chief Data Office — GCP migration, data catalog, lineage, governance, and regulatory reporting (BCBS 239/GDPR).
 
 Before Deutsche Bank: Product at LSEG/Refinitiv (Eikon, AI-powered content extraction), JPMorgan Asset Management (cross-border compliance, KYC/AML), JPMorgan Chase (digital cards), and Barclays (mortgage and corporate banking via Accenture).
 
