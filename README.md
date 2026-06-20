@@ -1,16 +1,31 @@
-## Hi there 👋
+# Basavaraj Shepur
 
-<!--
-**basavarajshepur-lab/basavarajshepur-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Product Manager | Banking x Data x AI**
 
-Here are some ideas to get you started:
+19 years building data and AI products across global financial institutions. Currently leading enterprise data platform initiatives at Deutsche Bank's Chief Data Office — GCP migration, data catalog, lineage, governance, and regulatory reporting (BCBS 239/GDPR).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before Deutsche Bank: Product at LSEG/Refinitiv (Eikon, AI-powered content extraction), JPMorgan Asset Management (cross-border compliance, KYC/AML), JPMorgan Chase (digital cards), and Barclays (mortgage and corporate banking via Accenture).
+
+### What I work on
+
+- **Data products** — catalogs, lineage, stewardship, regulatory reporting pipelines
+- **AI in the product loop** — NLP, ML-assisted workflows, LLM-powered tooling in enterprise contexts
+- **Regulated environments** — capital markets, asset management, compliance-heavy delivery
+- **Cloud migration** — GCP, platform modernisation at scale
+
+### A number I'm proud of
+
+At LSEG/Refinitiv, led the AI-powered translation product that scaled content extraction across 60+ language pairs. Reduced manual translation headcount from 208 specialists to 10 while maintaining 90%+ accuracy.
+
+### Certifications
+
+- AI-Empowered SAFe POPM
+- CBAP (IIBA, 2012)
+
+### Get in touch
+
+- Email: basavaraj.shepur@gmail.com
+- LinkedIn: [linkedin.com/in/basavaraj-shepur](https://linkedin.com/in/basavaraj-shepur)
+- Location: London, UK (Indefinite Leave to Remain)
+
+*MBA Finance | B.E. Electronics & Communication*
