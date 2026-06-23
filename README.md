@@ -1,6 +1,6 @@
 # Basavaraj Shepur
 
-**Senior Product Manager 
+**Senior Product Manager**
 
 19 years in total out of which 14+ as a Product manager building data and AI products across global financial institutions. Currently leading enterprise data platform initiatives at Deutsche Bank's Chief Data Office — GCP migration, data catalog, lineage, governance, and regulatory reporting (BCBS 239/GDPR).
 
